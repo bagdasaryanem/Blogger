@@ -86,7 +86,9 @@
               >
                 <img src="./assets/Blog-post/post-1.jpg" alt="post-1" />
                 <div class="blog-title">
-                  <h3>London Fashion week's continued the evolution</h3>
+                  <h3>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  </h3>
                   <button class="btn btn-blog">Fashion</button>
                   <span>2 minutes</span>
                 </div>
@@ -94,7 +96,9 @@
               <div class="blog-content" data-aos="fade-in" data-aos-delay="200">
                 <img src="./assets/Blog-post/post-3.jpg" alt="post-1" />
                 <div class="blog-title">
-                  <h3>London Fashion week's continued the evolution</h3>
+                  <h3>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  </h3>
                   <button class="btn btn-blog">Fashion</button>
                   <span>2 minutes</span>
                 </div>
@@ -106,7 +110,9 @@
               >
                 <img src="./assets/Blog-post/post-2.jpg" alt="post-1" />
                 <div class="blog-title">
-                  <h3>London Fashion week's continued the evolution</h3>
+                  <h3>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  </h3>
                   <button class="btn btn-blog">Fashion</button>
                   <span>2 minutes</span>
                 </div>
@@ -118,7 +124,9 @@
               >
                 <img src="./assets/Blog-post/post-5.png" alt="post-1" />
                 <div class="blog-title">
-                  <h3>London Fashion week's continued the evolution</h3>
+                  <h3>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  </h3>
                   <button class="btn btn-blog">Fashion</button>
                   <span>2 minutes</span>
                 </div>
@@ -155,16 +163,16 @@
                 <div class="post-info flex-row">
                   <span><i class="fas fa-user text-gray"></i>Admin</span>
                   <span
-                    ><i class="fas fa-calendar-alt text-gray"></i>January 14,
-                    2019</span
+                    ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                    2020</span
                   >
-                  <span>2 Commets</span>
+                  <span>2 Comments</span>
                 </div>
               </div>
               <div class="post-title">
                 <a href="#"
-                  >Why should boys have all the fun? it's the women who are
-                  making india an alcohol-loving contry</a
+                  >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Provident perspiciatis impedit ratione, vel magni dicta?</a
                 >
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
@@ -191,16 +199,16 @@
                 <div class="post-info flex-row">
                   <span><i class="fas fa-user text-gray"></i>Admin</span>
                   <span
-                    ><i class="fas fa-calendar-alt text-gray"></i>January 16,
-                    2019</span
+                    ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                    2020</span
                   >
-                  <span>7 Commets</span>
+                  <span>7 Comments</span>
                 </div>
               </div>
               <div class="post-title">
                 <a href="#"
-                  >Why should boys have all the fun? it's the women who are
-                  making india an alcohol-loving contry</a
+                  >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Provident perspiciatis impedit ratione, vel magni dicta?</a
                 >
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
@@ -227,15 +235,15 @@
                 <div class="post-info flex-row">
                   <span><i class="fas fa-user text-gray"></i>Admin</span>
                   <span
-                    ><i class="fas fa-calendar-alt text-gray"></i>January 19,
-                    2019</span
+                    ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                    2020</span
                   >
-                  <span>5 Commets</span>
+                  <span>5 Comments</span>
                 </div>
               </div>
               <div class="post-title">
                 <a href="#"
-                  >New data recording system to better analyse road accidents</a
+                  >Lorem ipsum dolor, sit amet consectetur adipisicing elit.</a
                 >
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
@@ -262,15 +270,16 @@
                 <div class="post-info flex-row">
                   <span><i class="fas fa-user text-gray"></i>Admin</span>
                   <span
-                    ><i class="fas fa-calendar-alt text-gray"></i>January 21,
-                    2019</span
+                    ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                    2020</span
                   >
-                  <span>12 Commets</span>
+                  <span>12 Comments</span>
                 </div>
               </div>
               <div class="post-title">
                 <a href="#"
-                  >New data recording system to better analyse road accidents</a
+                  >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Provident vel magni dicta?</a
                 >
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
@@ -339,7 +348,7 @@
               </ul>
             </div>
             <div class="popular-post">
-              <h2>Popular Post</h2>
+              <h2>Popular Posts</h2>
               <div class="post-content" data-aos="flip-up" data-aos-delay="200">
                 <div class="post-image">
                   <div>
@@ -351,16 +360,16 @@
                   </div>
                   <div class="post-info flex-row">
                     <span
-                      ><i class="fas fa-calendar-alt text-gray"></i>January 14,
-                      2019</span
+                      ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                      2020</span
                     >
                     <span>2 Commets</span>
                   </div>
                 </div>
                 <div class="post-title">
                   <a href="#"
-                    >New data recording system to better analyse road
-                    accidents</a
+                    >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Provident vel magni dicta?</a
                   >
                 </div>
               </div>
@@ -375,16 +384,16 @@
                   </div>
                   <div class="post-info flex-row">
                     <span
-                      ><i class="fas fa-calendar-alt text-gray"></i>January 14,
-                      2019</span
+                      ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                      2020</span
                     >
                     <span>2 Commets</span>
                   </div>
                 </div>
                 <div class="post-title">
                   <a href="#"
-                    >New data recording system to better analyse road
-                    accidents</a
+                    >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Provident vel magni dicta?</a
                   >
                 </div>
               </div>
@@ -399,16 +408,16 @@
                   </div>
                   <div class="post-info flex-row">
                     <span
-                      ><i class="fas fa-calendar-alt text-gray"></i>January 14,
-                      2019</span
+                      ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                      2020</span
                     >
                     <span>2 Commets</span>
                   </div>
                 </div>
                 <div class="post-title">
                   <a href="#"
-                    >New data recording system to better analyse road
-                    accidents</a
+                    >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Provident vel magni dicta?</a
                   >
                 </div>
               </div>
@@ -423,16 +432,16 @@
                   </div>
                   <div class="post-info flex-row">
                     <span
-                      ><i class="fas fa-calendar-alt text-gray"></i>January 14,
-                      2019</span
+                      ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                      2020</span
                     >
                     <span>2 Commets</span>
                   </div>
                 </div>
                 <div class="post-title">
                   <a href="#"
-                    >New data recording system to better analyse road
-                    accidents</a
+                    >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Provident vel magni dicta?</a
                   >
                 </div>
               </div>
@@ -447,16 +456,16 @@
                   </div>
                   <div class="post-info flex-row">
                     <span
-                      ><i class="fas fa-calendar-alt text-gray"></i>January 14,
-                      2019</span
+                      ><i class="fas fa-calendar-alt text-gray"></i>August 14,
+                      2020</span
                     >
                     <span>2 Commets</span>
                   </div>
                 </div>
                 <div class="post-title">
                   <a href="#"
-                    >New data recording system to better analyse road
-                    accidents</a
+                    >Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                    Provident vel magni dicta?</a
                   >
                 </div>
               </div>
